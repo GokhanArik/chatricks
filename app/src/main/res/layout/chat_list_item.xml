@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+     
+    <LinearLayout
+        android:id="@+id/llMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/ferman" >
+        <TextView
+            android:id="@+id/text1"
+			android:maxLines="5"
+			android:text="asdasdas"
+			android:textColor="#FFFFFF"
+		    android:shadowColor="#000000"
+		    android:shadowDx="0.0"
+		    android:shadowDy="0.0"
+		    android:shadowRadius="4.0"
+            android:textSize="16sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </LinearLayout>
+     
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatricks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="dedikodu">Dedikodu</string>
+    <string name="kankalar">Kankalar</string>
+    <string name="ayarlar">Ayarlar</string>
+    
+    <string-array name="photo_options">
+        <item>Choose from library</item>
+        <item>Camera</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
